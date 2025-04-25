@@ -39,6 +39,7 @@ h1, h3 {
 #timer {
     font-family: 'Seven Segment', sans-serif;
     text-align: center;
+    margin-top: 30px;
 }
 
 #new-game {
